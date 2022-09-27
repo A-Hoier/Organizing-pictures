@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sat Jun 11 21:02:42 2022
-
-@author: alexa
-"""
 
 import os
 import exifread
