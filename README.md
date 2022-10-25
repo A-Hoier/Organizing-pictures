@@ -1,4 +1,4 @@
-# Sorting-pictures
+# Organizing-pictures
 Easens the life of every modern parent by sorting pictures, and seperating blurrys pictures.
 
 This script requires opencv and exifread to be installed
